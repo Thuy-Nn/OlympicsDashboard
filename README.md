@@ -15,7 +15,10 @@ Another Resources:
 https://en.wikipedia.org/wiki/Olympic_Games
 
 
-![intropages](img.png)
+![intropages](intro.png)
+![intropages](summary.png)
+![intropages](details_summary.png)
+![intropages](edition_events.png)
 
 ## Visualization by Coding
 Alternatively, a Jupyter Notebook is available to demonstrate data visualization using Python.
