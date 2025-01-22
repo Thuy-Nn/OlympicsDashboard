@@ -5,14 +5,12 @@ This repo is about the process of creating a dashboard visualizing Olympic histo
 Due to the size and complexity of the data, I initially faced difficulties with importing. Even after successfully importing the data, I encountered challenges because the information in the tables was not consistent. Through this dashboard, I hope to showcase my skills and provide insight into my future career direction.
 
 Tableau Public:
-https://public.tableau.com/app/profile/thi.thanh.thuy.nguyen2918/viz/Olympics_15_09/Intro
+- https://public.tableau.com/app/profile/thi.thanh.thuy.nguyen2918/viz/Olympics_15_09/Intro
 
-Data Source:
-https://www.olympedia.org/
-https://www.kaggle.com/datasets/josephcheng123456/olympic-historical-dataset-from-olympediaorg
-
-Another Resources:
-https://en.wikipedia.org/wiki/Olympic_Games
+Resources:
+- https://www.olympedia.org/
+- https://www.kaggle.com/datasets/josephcheng123456/olympic-historical-dataset-from-olympediaorg
+- https://en.wikipedia.org/wiki/Olympic_Games
 
 
 ![intropages](intro.png)
@@ -25,4 +23,4 @@ Alternatively, a Jupyter Notebook is available to demonstrate data visualization
 
 The dataset was first cleaned with a Python script, then analyzed and visualized using Pandas and Plotly.
 
-Please go to `src` directory for the code and demo.
+Please go to [src](src) directory for the code and demo.
