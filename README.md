@@ -1,6 +1,6 @@
 # About the Project: Olympics Dashboard
 
-This repo is about the process of creating a dashboard visualizing Olympic history statistics from 1896 to 2022. The datasets were originally in CSV, and then imported to MySQL server.
+This repo is about the process of creating a dashboard visualizing Olympic history statistics from 1890 to 2022. The datasets were originally in CSV, and then imported to MySQL server.
 
 Due to the size and complexity of the data, I initially faced difficulties with importing. Even after successfully importing the data, I encountered challenges because the information in the tables was not consistent. Through this dashboard, I hope to showcase my skills and provide insight into my future career direction.
 
