@@ -5,7 +5,7 @@ This repo is about the process of creating a dashboard visualizing Olympic histo
 Due to the size and complexity of the data, I initially faced difficulties with importing. Even after successfully importing the data, I encountered challenges because the information in the tables was not consistent. Through this dashboard, I hope to showcase my skills and provide insight into my future career direction.
 
 Tableau Public:
-- https://public.tableau.com/app/profile/thi.thanh.thuy.nguyen2918/viz/Olympics_15_09/Intro
+- https://public.tableau.com/app/profile/thi.thanh.thuy.nguyen2918/viz/Olympics_2601/Intro
 
 Resources:
 - https://www.olympedia.org/
